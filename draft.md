@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+[How Github Copilot and ChatGPT have changed my life as an R developer](https://ymansiaux.github.io/yohann-data/posts/iaforr/)
 
 ### R in the Real World
 
